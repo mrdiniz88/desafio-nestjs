@@ -26,6 +26,11 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+
+## Docker Hub
+
+<a href="https://hub.docker.com/repository/docker/igordiniz88/desafio-nest">Link to docker hub</a>
+
 ## Installation
 
 ```bash
