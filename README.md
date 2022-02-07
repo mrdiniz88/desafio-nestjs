@@ -31,6 +31,13 @@
 
 <a href="https://hub.docker.com/repository/docker/igordiniz88/desafio-nest">Link to docker hub</a>
 
+## Rolling the application in docker
+
+```bash
+# development with docker
+$ docker-compose up 
+```
+
 ## Installation
 
 ```bash
